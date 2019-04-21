@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Catch-Of-The-Day/precache-manifest.9fb17c0320be316f2399007a6118cb1d.js"
+  "/React-Catch-Of-The-Day/precache-manifest.99d8603a8dda03d664ab2762c1324561.js"
 );
 
 workbox.clientsClaim();
