@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/React-Catch-Of-The-Day/static/media/haymaker-webfont.cf798e30.svg"
   },
   {
-    "revision": "032c7384c583d0e97363",
+    "revision": "8d79f23618128ca3b007",
     "url": "/React-Catch-Of-The-Day/static/css/main.6ede7ad2.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/React-Catch-Of-The-Day/static/media/anchor.d2f8799a.svg"
   },
   {
-    "revision": "032c7384c583d0e97363",
-    "url": "/React-Catch-Of-The-Day/static/js/main.f75f6a50.chunk.js"
+    "revision": "8d79f23618128ca3b007",
+    "url": "/React-Catch-Of-The-Day/static/js/main.9c2dd57f.chunk.js"
   },
   {
     "revision": "e9535f20ca175cc3fdfe2816f7c47168",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/React-Catch-Of-The-Day/static/media/blanch_caps_inline-webfont.7bbffda6.svg"
   },
   {
-    "revision": "675bbe80b491e20fbdb6859aa1eb5267",
+    "revision": "e85774e95ad4ea01ca4d6d5ddaa97c48",
     "url": "/React-Catch-Of-The-Day/index.html"
   }
 ];
